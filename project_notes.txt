@@ -1,0 +1,30 @@
+RULE-BASED AI CHATBOT - PROJECT NOTES
+
+Project: Artificial Intelligence Project 1
+Type: Rule-Based AI Chatbot
+
+Main concepts:
+1. Input
+2. String processing
+3. if / elif / else
+4. while loop
+5. Predefined responses
+6. Exit condition
+
+The chatbot follows explicit rules rather than learning from data.
+
+Suggested viva questions:
+Q1. What is a rule-based chatbot?
+A: A chatbot that gives responses according to predefined rules.
+
+Q2. Which Python statements are used?
+A: if, elif, else and while.
+
+Q3. Why is a loop used?
+A: To keep the conversation running continuously.
+
+Q4. How does the chatbot stop?
+A: When the user enters bye, goodbye, exit, or quit.
+
+Q5. Is this a machine-learning chatbot?
+A: No. It is a basic rule-based system using explicit programmatic decision-making.
